@@ -12,3 +12,9 @@ https://poki.com.br/g/piano-tiles-2
 </p>
 
 3º Verefique as coordenadas de cada tecla, observe se estão abaixo dos respectivos comandos. Caso isso não aconteça modifique as coordenadas na lista "ranges"
+
+
+<p align="center">
+  <img src="https://github.com/igorvreis1/autoPianoTiles/issues/2#issue-1026451091" width="300" title="Ranger">
+</p>
+
