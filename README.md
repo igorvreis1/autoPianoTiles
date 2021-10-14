@@ -17,5 +17,6 @@ https://poki.com.br/g/piano-tiles-2
   <img src="https://user-images.githubusercontent.com/54328542/137335482-c068027a-5b08-44ba-9c80-51e7b69ed876.png" width="350" title="Strat Game">
 </p>
 
+4º Execute o programa e troque pro navegador e veja a pontução aumentando :D
 
 
