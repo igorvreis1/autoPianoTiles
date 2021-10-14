@@ -7,4 +7,7 @@ Instruções:
 https://poki.com.br/g/piano-tiles-2
 
 2º Pule as propagandas e clique em play, deixe o jogo parado nesse tela
-![Alt text](C:\Users\Igor\Desktop\start.pngraw=true "Title")
+<p align="center">
+  <img src="C:\Users\Igor\Desktop\strat.png" width="350" title="hover text">
+  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+</p>
