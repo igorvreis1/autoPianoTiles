@@ -18,12 +18,15 @@ def printScrean():
     return (imagem)
 
 def procuraTecla(imagem):
+    #coordenados de onde estão localizadas cada tecla, isso pode mudar conforme a resolução do seu monitor
+
     #rangeD = (650,508)
     #rangeF = (735,508)
     #rangeJ = (815,508)
-    #rengek = (895,508)
+    #rengeK = (895,508)
     cont = 0
-
+    
+    #            D          F         J         K
     ranges = ((650,508),(735,508),(815,508),(895,508))
     for i in ranges:
         color = imagem.getpixel(i)
