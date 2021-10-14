@@ -6,6 +6,5 @@
 https://poki.com.br/g/piano-tiles-2
 
 2º Pule as propagandas e clique em play, deixe o jogo parado nesse tela
-<p align="center">
-  <img src="C:\Users\Igor\Desktop\start.png">
-</p>
+<img src="C:\Users\Igor\Desktop\start.png">
+
