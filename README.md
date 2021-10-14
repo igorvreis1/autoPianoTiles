@@ -1,5 +1,5 @@
 # autoPianoTiles
-Projeto para fazer IA jogar Piano Tales 2
+<h1>Projeto para fazer IA jogar Piano Tales 2</h1>
 
 Instruções:
 
