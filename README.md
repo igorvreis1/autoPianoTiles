@@ -1,7 +1,6 @@
-# autoPianoTiles
 <h1>Projeto para fazer IA jogar Piano Tales 2</h1>
 
-Instruções:
+<h2>Instruções:</h2>
 
 1º Abra o jogo em seu navegador, segue o link abaixo:
 https://poki.com.br/g/piano-tiles-2
