@@ -10,3 +10,5 @@ https://poki.com.br/g/piano-tiles-2
 <p align="center">
   <img src="https://user-images.githubusercontent.com/54328542/137331514-0193b095-145a-489f-b46d-b3d10c39bce8.png" width="300" title="Strat Game">
 </p>
+
+3º Verefique as coordenadas de cada tecla, observe se estão abaixo dos respectivos comandos. Caso isso não aconteça modifique as coordenadas na lista "ranges"
